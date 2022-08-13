@@ -23,3 +23,4 @@ inverted - Are poles colored black?
    
 Example command: python vis.py "lambda z: exp(1 / z)" "Essential Singularity"
 
+![e1z](https://user-images.githubusercontent.com/28418992/184466181-abca84ef-72d1-4f22-b94d-eb9108c85d4d.png)

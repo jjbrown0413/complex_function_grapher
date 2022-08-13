@@ -1,4 +1,4 @@
-# complex_function_grapher
+# Complex Function Grapher
 Uses domain coloring to plot a complex function inputted via lambda expression. (Requires python to be installed and in PATH)
 
 Complex functions are functions that both input and output complex numbers. Each complex number is composed of a real and imaginary component. Therefore, effective visualization of these functions require four dimensions.

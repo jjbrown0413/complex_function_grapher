@@ -3,10 +3,8 @@ import math
 
 import matplotlib.pyplot as plt
 import numpy as np
-import os
 import cmath
 import sys
-os.system("cls")
 
 function_limits = {'sqrt': cmath.sqrt, 'exp': cmath.exp, 'log': cmath.log, 'ln': cmath.log, 'sin': cmath.sin, 'cos': cmath.cos, 'tan': cmath.tan, 'pi': cmath.pi, 'e': cmath.e, 'arg': cmath.phase}
 

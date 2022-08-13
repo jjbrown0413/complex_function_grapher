@@ -10,7 +10,7 @@ Lightness = (2 / pi) * arctan(modulus)
 
 With this, values circling the origin follow the color spectrum, large numbers are close to white, and zero is black, with a smooth gradient between.
 
-Through this we can visualize an otherwise difficult to imagine function.
+Through this we can visualize an otherwise difficult to imagine function. The program graphs anything within the unit circle, utilizing a branch cut along the positive real axis if applicable.
 
 vis.py produces illustrations according to these relationships. In the terminal, the following command produces an illustration along with a comparison to f(z) = z
 

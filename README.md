@@ -25,6 +25,10 @@ Example command: python vis.py "lambda z: exp(1 / z)" "Essential Singularity"
 
 ![e1z](https://user-images.githubusercontent.com/28418992/184466181-abca84ef-72d1-4f22-b94d-eb9108c85d4d.png)
 
+Zoomed:
+
+![closer_view](https://user-images.githubusercontent.com/28418992/184508650-669efd95-bacd-424d-9e2f-85bf0d359633.png)
+
 Example command: python vis.py "lambda z: log(z ** 2 + 1) / (z ** 2)" "log(x^2 + 1) / (x^2)"
 
 ![log_stuff](https://user-images.githubusercontent.com/28418992/184466323-c9411313-0ed9-4819-aa1e-45077a0aed77.png)
